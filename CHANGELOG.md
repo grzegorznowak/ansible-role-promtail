@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.15.1](https://github.com/patrickjahns/ansible-role-promtail/tree/1.15.1) (2022-01-22)
+
+[Full Changelog](https://github.com/patrickjahns/ansible-role-promtail/compare/1.15.0...1.15.1)
+
+**Implemented enhancements:**
+
+- Add upstream sync script [\#4](https://github.com/patrickjahns/ansible-role-promtail/issues/4)
+
+**Merged pull requests:**
+
+- chore\(deps\): update dependency setuptools to v58.5.3 [\#87](https://github.com/patrickjahns/ansible-role-promtail/pull/87) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update robertdebock/galaxy-action action to v1.1.1 [\#83](https://github.com/patrickjahns/ansible-role-promtail/pull/83) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): pin dependencies [\#82](https://github.com/patrickjahns/ansible-role-promtail/pull/82) ([renovate[bot]](https://github.com/apps/renovate))
+- chore: add renovate config [\#80](https://github.com/patrickjahns/ansible-role-promtail/pull/80) ([MindTooth](https://github.com/MindTooth))
+
 ## [1.15.0](https://github.com/patrickjahns/ansible-role-promtail/tree/1.15.0) (2022-01-13)
 
 [Full Changelog](https://github.com/patrickjahns/ansible-role-promtail/compare/1.14.0...1.15.0)
